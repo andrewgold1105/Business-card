@@ -1,0 +1,28 @@
+body{
+ margin:20px;
+ font-family:serif;   
+ font-size: 1.2rem;
+}
+.andy{
+    width: 150px;
+}
+/* Card section styling */
+.card{
+    display: flex;
+    padding:20px;
+    justify-content:space-around;
+    width: 400px;
+    margin:0 auto;
+    text-align: center;
+    color:#2b2839;
+    background-color: #ddebf8;
+    border-bottom:5px solid crimson
+    
+}
+span{
+    color: gold;
+    text-shadow: 0px 4px 3px black;
+    font-family: Arial;
+    font-size: 1.7rem;
+}
+
